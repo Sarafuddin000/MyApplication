@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="bitleetimg">bitleetimg</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign Up</string>
+    <string name="Pa5swOrd">password</string>
+    <string name="Pa5sw0rd">pas5wOrd</string>
+    <string name="Check_box"><a href="http:kitahoise.wordpress.com">I read carefully and agree with the T&amp;C</a></string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+    <string name="login">Login</string>
+    <string name="em_il">em@il</string>
+    <string name="loginbutton">loginbutton</string>
+    <string name="full_name">Full Name</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="signupbutton">SignupButton</string>
+</resources>

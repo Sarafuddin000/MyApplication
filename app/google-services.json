@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "283137377477",
+    "firebase_url": "https://myapplication-daa7a.firebaseio.com",
+    "project_id": "myapplication-daa7a",
+    "storage_bucket": "myapplication-daa7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283137377477:android:3565859cf2e82197",
+        "android_client_info": {
+          "package_name": "org.bitleet.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283137377477-k81i6tnd6hhmj1036n48ripjnsipc2rs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.bitleet.myapplication",
+            "certificate_hash": "b549a703f362d57dc65c505e5ea9cd7b3b8e23c9"
+          }
+        },
+        {
+          "client_id": "283137377477-2cbus49ailntdls809pves7g3hhqrl34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3-GtYHj8fKckMHtKI2mCeIEx6z2gIA40"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283137377477-2cbus49ailntdls809pves7g3hhqrl34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
